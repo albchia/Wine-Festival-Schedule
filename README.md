@@ -1,6 +1,6 @@
 # Wine Festival Schedule
 
-
+A simple webpage using wthin HTML and CSS to display a table to the attendees of the event schedule.
 
 # Fashion Blog Project
 
