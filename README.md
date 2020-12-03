@@ -40,8 +40,7 @@ In this Codecademy Pro project, we are going to practice _tabular organization i
 
 If you are going to have data on a webpage, you have got to master the skills of effectively and aesthetically organizing it -an HTML `table` is the perfect solution.
 
-Use your HTML knowledge to create the underlying structure of the blog.
-Make sure to include `pictures`, `lists`, `links`, and other `HTML elements` that you have learned.
+Use your HTML knowledge of HTML to display a table to the attendees.
 
 ## Contributing
 
