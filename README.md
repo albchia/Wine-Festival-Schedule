@@ -2,10 +2,6 @@
 
 A simple webpage using wthin HTML and CSS to display a table to the attendees of the event schedule.
 
-# Fashion Blog Project
-
-A very simple website -a Fashion Blog- initially built only within HTML.
-
 This is one of the projects I realized during the Codecademy Course "Intro to HTML".
 
 [See full project](https://albchia.github.io/Fashion-Blog-Project/)
@@ -17,17 +13,17 @@ This is one of the projects I realized during the Codecademy Course "Intro to HT
 
 ## About the Project
 
-This is the first project made during Codecademy classroom on "Intro to HTML".
+This is the second project made during Codecademy classroom on "Intro to HTML".
 
 ### Project Screenshot
 
-My _Fashion Blog_!
+My _Wine Festival Schedule_!
 
 ![Fashion-blog-screenshot](https://user-images.githubusercontent.com/70691672/100760319-eeb66d80-33f1-11eb-9bf9-3d734db6426f.PNG)
 
 ### Project Overview
 
-Title: _"Fashion Blog"_
+Title: _"Wine Festival Schedule"_
 
 > GitHub: [link](https://github.com/albchia/Fashion-Blog-Project.git)
 
