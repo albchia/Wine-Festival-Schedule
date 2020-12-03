@@ -4,7 +4,7 @@ A simple webpage using wthin HTML and CSS to display a table to the attendees of
 
 This is one of the projects I realized during the Codecademy Course "Intro to HTML".
 
-[See full project](https://albchia.github.io/Fashion-Blog-Project/)
+[See full project](https://albchia.github.io/Wine-Festival-Schedule/)
 
 ## Table of Contents
 
