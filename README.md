@@ -35,8 +35,8 @@ The design prototype used for this project is inspired by an event time-table. T
 
 Feel free to customize information and style the webpage.
 
-It's time to build fluency in HTML Fundamentals.
-In this Codecademy Pro project, we are going to practice structure in HTML so you can hone your skills and feel confident taking them to the real world.
+It's time to build fluency in HTML Tables.
+In this Codecademy Pro project, we are going to practice tabular organization in HTML so you can hone your skills and feel confident taking them to the real world.
 
 This project will help you to understand and master the _building blocks of a webpage_. What's next? A blogger, a developer, a stylish website!
 
