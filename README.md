@@ -19,7 +19,7 @@ This is the second project made during Codecademy classroom on "Intro to HTML".
 
 My _Wine Festival Schedule_!
 
-![Wine_Festival_Schedule_screenshot](https://user-images.githubusercontent.com/70691672/101058679-ac299800-358d-11eb-99f7-2caac1788930.PNG)
+![Wine_Festival_Schedule_screenshot](https://user-images.githubusercontent.com/70691672/101172198-26672480-3641-11eb-9273-026cd54d6270.PNG)
 
 ### Project Overview
 
