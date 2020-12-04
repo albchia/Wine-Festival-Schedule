@@ -1,6 +1,6 @@
 # Wine Festival Schedule
 
-A simple webpage using wthin HTML and CSS to display a table to the attendees of the event schedule.
+A simple webpage using wthin HTML and CSS to display a table to the attendees of the event scheduled.
 
 This is one of the projects I realized during the Codecademy Course "Intro to HTML".
 
