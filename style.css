@@ -24,8 +24,10 @@ h2 {
 h3 {
   font-size: 20px;
   text-transform: uppercase;
-  text-align: center;
-  margin: auto;
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   font-weight: 500;
   line-height: 2.7;
   letter-spacing: 0.8px;
@@ -39,6 +41,7 @@ th {
 table {
   text-align: center;
   margin: 20px auto;
+  border-spacing: 0px;
 }
 
 td {
@@ -71,4 +74,9 @@ footer h3 {
 
 .left {
   width: 150px;
+}
+
+.right {
+  width: 300px;
+  margin-left: 20px;
 }
